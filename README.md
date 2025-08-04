@@ -76,7 +76,7 @@ Each cluster is paired with actionable business strategies such as retention pro
 ## 📁 Files in Repository
 
 - `customer_segmentation.ipynb` — Main Colab notebook
-- `ecommerce_data.xlsx` — Raw dataset (if publicly shareable)
+- `Online Retail.xlsx` — Raw dataset (if publicly shareable)
 - `README.md` — Project documentation
 
 ---
